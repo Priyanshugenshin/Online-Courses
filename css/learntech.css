@@ -1,0 +1,54 @@
+
+
+div.learntechnow {
+  width: 400px;
+  height: 500px;
+  background: 1px solid transparent;
+  position: static;
+  top: 281px;
+  left: 400px;
+}
+
+div.learntechpodcast{
+  width: 400px;
+  height: 600px;
+  background: 1px solid transparent;
+  position: absolute;
+  top: 281px;
+  left: 450px;
+}
+
+div.learntechblog{
+  width: 400px;
+  height: 500px;
+  background: 1px solid transparent;
+  position: absolute;
+  top: 281px;
+  left: 900px;
+}
+
+.hilt{
+  position: absolute;
+  top: 100px
+  left:614px
+}
+
+h6 {
+  font-size: 1em;
+}
+
+footer {
+    width: 100%;
+    height: 60px;
+    background: #172035;
+    position: absolute;
+    top: 1000px;
+    left: 0;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: -22px;
+    font-size: 1em;
+}

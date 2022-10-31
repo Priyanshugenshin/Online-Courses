@@ -1,0 +1,98 @@
+/*
+====================================================================================================================================================================
+                                                    Start Global Properties
+====================================================================================================================================================================
+*/
+
+body {
+    font-family: roboto;
+}
+
+
+.rightnav{
+  width:30%;
+  text-align: center;
+  height: 10px;
+  top: 10px
+}
+
+.rightnav button{
+  width: 20%;
+  height: 80px;
+  background: #172035;
+  border:none;
+  font-size: 1em;
+}
+
+a:hover {
+    color: white;
+    background: #09568d;
+
+}
+
+button {
+    width: 60%;
+    height: 50px;
+    background: #172035;
+    color: white;
+    font-size: 2em;
+    border:none;
+}
+
+button:hover {
+    background: #09568d;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+p {
+    font-size: 2em;
+}
+
+.navbar{
+  display: flex;
+  background-color: #172035;
+}
+.navlist{
+  width: 50%;
+  display:flex;
+  align-items: center;
+
+}
+.navlist a{
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+}
+
+.logo{
+  margin-left: 25px;
+    /* margin-right: 100px; */
+    position: relative;
+    top: 17px;
+    left: 0;
+
+}
+
+img#logo{
+  margin-left: 25px;
+    margin-right: 100px;
+    position: relative;
+    top: 3px;
+    left: 0;
+
+}
+
+
+
+/*
+====================================================================================================================================================================
+                                                    End Global Properties
+====================================================================================================================================================================
+*/

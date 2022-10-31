@@ -1,0 +1,25 @@
+section#entry-header {
+  margin: 0 auto;
+  max-width: 474px;
+  display: block;
+}
+
+footer {
+    width: 100%;
+    height: 80px;
+    background: #172035;
+    position: absolute;
+    top: 2750px;
+    left: 0;
+}
+
+h6 {
+	font-size: 1em;
+}
+
+p#footer {
+    text-align: center;
+    color: white;
+    margin-top: -22px;
+    font-size: 1em;
+}
